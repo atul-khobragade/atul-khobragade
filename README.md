@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Khobragade</h1>
-<h3 align="center">I'm a Passionate Computer Science Engineer</h3>
+<h3 align="center">A Passionate Computer Science Engineer</h3>
 
-- 📫 How to reach me **khobragade.2@iitj.ac.in**
+- 📫 How to reach me Email: **khobragade.2@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
