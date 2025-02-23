@@ -5,7 +5,7 @@
 </p>
 
 ---
-<p align="center">I'm an IIT Jodhpur graduate in Computer Science and Engineering.</p>
+
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Development, AI, and Data Science**
