@@ -5,6 +5,7 @@
 </p>
 
 ---
+<p align="center">I'm an IIT Jodhpur graduate in Computer Science and Engineering.</p>
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Development, AI, and Data Science**
@@ -57,19 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atulyaarr&show_icons=true&theme=radical" alt="Atul's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulyaarr&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulyaarr&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
