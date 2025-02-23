@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=16E2F8&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Atul+Khobragade;Passionate+Software+Engineer;Web+Dev+%7C+AI+%7C+Data+Science;Building+Tech+Solutions+Everyday!" alt="Typing SVG" />
 </p>
 
----
 
 
 ## 👨‍💻 About Me
@@ -59,8 +58,6 @@
 ---
 
 
-
----
 
 ## 🎵 Vibe With Me
 
